@@ -1,7 +1,7 @@
 ## Installation
 Clone the repository
 ```sh
-git clone https://github.com/HenriqueOliveiraCoder/yt2mp3-arch
+git clone https://github.com/henriquestelzer/yt2mp3-arch
 ```
 Enter the repository folder
 ```sh
